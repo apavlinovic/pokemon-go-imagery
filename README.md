@@ -1,6 +1,9 @@
-# pokemon-go-imagery
+# Pokemon GO Icons, images, text and sound files
 
-- a Github repo documenting all static assets in  Pokemon GO APKs
-- current version: 0.72.9
+Current version: **0.89.1**
 
 https://pokemongohub.net/
+
+A Github repo documenting all static assets one can usually find in a Pokemon GO APK. Data mined and published by yours truly. 
+
+- Does not contain any information that requires access to Niantic's servers (such as Pokemon GO sprites or models)
