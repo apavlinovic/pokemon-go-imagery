@@ -1,0 +1,239 @@
+string m_Name = ""
+SerializedShader m_ParsedForm
+	SerializedProperties m_PropInfo
+		vector m_Props
+			Array Array
+			int size = 9
+				[0]
+				SerializedProperty data
+					string m_Name = "_MainTex"
+					string m_Description = "Font Texture"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 4
+					unsigned int m_Flags = 2
+					float m_DefValue[0] = 0
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = "white"
+						int m_TexDim = 2
+				[1]
+				SerializedProperty data
+					string m_Name = "_Color"
+					string m_Description = "Tint"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 0
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 1
+					float m_DefValue[1] = 1
+					float m_DefValue[2] = 1
+					float m_DefValue[3] = 1
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[2]
+				SerializedProperty data
+					string m_Name = "_StencilComp"
+					string m_Description = "Stencil Comparison"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 8
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[3]
+				SerializedProperty data
+					string m_Name = "_Stencil"
+					string m_Description = "Stencil ID"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 0
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[4]
+				SerializedProperty data
+					string m_Name = "_StencilOp"
+					string m_Description = "Stencil Operation"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 0
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[5]
+				SerializedProperty data
+					string m_Name = "_StencilWriteMask"
+					string m_Description = "Stencil Write Mask"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 255
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[6]
+				SerializedProperty data
+					string m_Name = "_StencilReadMask"
+					string m_Description = "Stencil Read Mask"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 255
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[7]
+				SerializedProperty data
+					string m_Name = "_ColorMask"
+					string m_Description = "Color Mask"
+					vector m_Attributes
+						Array Array
+						int size = 0
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 15
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+				[8]
+				SerializedProperty data
+					string m_Name = "_UseUIAlphaClip"
+					string m_Description = "Use Alpha Clip"
+					vector m_Attributes
+						Array Array
+						int size = 1
+							[0]
+							string data = "Toggle(UNITY_UI_ALPHACLIP)"
+					int m_Type = 2
+					unsigned int m_Flags = 0
+					float m_DefValue[0] = 0
+					float m_DefValue[1] = 0
+					float m_DefValue[2] = 0
+					float m_DefValue[3] = 0
+					SerializedTextureProperty m_DefTexture
+						string m_DefaultName = ""
+						int m_TexDim = 1
+	vector m_SubShaders
+		Array Array
+		int size = 0
+	string m_Name = "UI/Default Font"
+	string m_CustomEditorName = ""
+	string m_FallbackName = "UI/Default"
+	vector m_Dependencies
+		Array Array
+		int size = 0
+	bool m_DisableNoSubshadersMessage = False
+vector platforms
+	Array Array
+	int size = 3
+		[0]
+		unsigned int data = 5
+		[1]
+		unsigned int data = 9
+		[2]
+		unsigned int data = 18
+vector offsets
+	Array Array
+	int size = 3
+		[0]
+		unsigned int data = 0
+		[1]
+		unsigned int data = 5
+		[2]
+		unsigned int data = 10
+vector compressedLengths
+	Array Array
+	int size = 3
+		[0]
+		unsigned int data = 5
+		[1]
+		unsigned int data = 5
+		[2]
+		unsigned int data = 5
+vector decompressedLengths
+	Array Array
+	int size = 3
+		[0]
+		unsigned int data = 4
+		[1]
+		unsigned int data = 4
+		[2]
+		unsigned int data = 4
+vector compressedBlob
+	Array Array
+	int size = 15
+		[0]
+		UInt8 data = 64
+		[1]
+		UInt8 data = 0
+		[2]
+		UInt8 data = 0
+		[3]
+		UInt8 data = 0
+		[4]
+		UInt8 data = 0
+		[5]
+		UInt8 data = 64
+		[6]
+		UInt8 data = 0
+		[7]
+		UInt8 data = 0
+		[8]
+		UInt8 data = 0
+		[9]
+		UInt8 data = 0
+		[10]
+		UInt8 data = 64
+		[11]
+		UInt8 data = 0
+		[12]
+		UInt8 data = 0
+		[13]
+		UInt8 data = 0
+		[14]
+		UInt8 data = 0
+vector m_Dependencies
+	Array Array
+	int size = 1
+		[0]
+		PPtr<Shader> data
+			int m_FileID = 0
+			SInt64 m_PathID = 10770
+bool m_ShaderIsBaked = True

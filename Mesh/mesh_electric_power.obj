@@ -1,0 +1,16 @@
+g mesh_electric_power
+v 1 0 3.43456
+v -1 0 3.43456
+v 1 0 -0.5654398
+v -1 0 -0.5654398
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+g mesh_electric_power_0
+f 3/3/3 2/2/2 1/1/1
+f 3/3/3 4/4/4 2/2/2
