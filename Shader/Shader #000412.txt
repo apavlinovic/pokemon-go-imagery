@@ -85,13 +85,13 @@ SerializedShader m_ParsedForm
 										float val = 5
 										string name = "<noninit>"
 									SerializedShaderFloatValue destBlend
-										float val = 10
+										float val = 1
 										string name = "<noninit>"
 									SerializedShaderFloatValue srcBlendAlpha
 										float val = 5
 										string name = "<noninit>"
 									SerializedShaderFloatValue destBlendAlpha
-										float val = 10
+										float val = 1
 										string name = "<noninit>"
 									SerializedShaderFloatValue blendOp
 										float val = 0
@@ -635,7 +635,7 @@ SerializedShader m_ParsedForm
 													TextureParameter data
 														int m_NameIndex = 0
 														int m_Index = 134217728
-														int m_SamplerIndex = 0
+														int m_SamplerIndex = 134217728
 														SInt8 m_Dim = 2
 											vector m_BufferParams
 												Array Array
@@ -725,7 +725,7 @@ SerializedShader m_ParsedForm
 													TextureParameter data
 														int m_NameIndex = 0
 														int m_Index = 134217728
-														int m_SamplerIndex = 0
+														int m_SamplerIndex = 134217728
 														SInt8 m_Dim = 2
 											vector m_BufferParams
 												Array Array
@@ -815,7 +815,7 @@ SerializedShader m_ParsedForm
 													TextureParameter data
 														int m_NameIndex = 0
 														int m_Index = 134217728
-														int m_SamplerIndex = 0
+														int m_SamplerIndex = 134217728
 														SInt8 m_Dim = 2
 											vector m_BufferParams
 												Array Array
@@ -1141,7 +1141,7 @@ SerializedShader m_ParsedForm
 													TextureParameter data
 														int m_NameIndex = 0
 														int m_Index = 134217728
-														int m_SamplerIndex = 0
+														int m_SamplerIndex = 134217728
 														SInt8 m_Dim = 2
 											vector m_BufferParams
 												Array Array
@@ -1268,7 +1268,7 @@ SerializedShader m_ParsedForm
 													TextureParameter data
 														int m_NameIndex = 0
 														int m_Index = 134217728
-														int m_SamplerIndex = 0
+														int m_SamplerIndex = 134217728
 														SInt8 m_Dim = 2
 											vector m_BufferParams
 												Array Array
@@ -1395,7 +1395,7 @@ SerializedShader m_ParsedForm
 													TextureParameter data
 														int m_NameIndex = 0
 														int m_Index = 134217728
-														int m_SamplerIndex = 0
+														int m_SamplerIndex = 134217728
 														SInt8 m_Dim = 2
 											vector m_BufferParams
 												Array Array
@@ -2211,7 +2211,7 @@ SerializedShader m_ParsedForm
 								string first = "RenderType"
 								string second = "Transparent"
 				int m_LOD = 0
-	string m_Name = "Mobile/Particles/Alpha Blended"
+	string m_Name = "Mobile/Particles/Additive"
 	string m_CustomEditorName = ""
 	string m_FallbackName = ""
 	vector m_Dependencies
