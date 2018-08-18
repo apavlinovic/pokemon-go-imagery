@@ -1009,11 +1009,11 @@ HP
 safety_warning_yes
 我不是駕駛
 codename_warning_message
-<size=36><b>確定要更改暱稱嗎？</b></size>\n\n暱稱只能變更一次。其他的訓練家也會看到你的暱稱，請好好考慮後再做決定。
+<size=36><b>確定要更改暱稱嗎？</b></size>\n\n其他的訓練家會看到你的暱稱，而且暱稱可變更的次數有限。請好好考慮後再做決定。
 codename_already_yours
 這是你現在的暱稱！
 codename_are_you_sure
-<size=36><b>確定要更改成 {0} 嗎？</b></size>\n\n暱稱只能變更一次。
+<size=36><b>確定要更改成 {0} 嗎？</b></size>\n\n暱稱能變更的次數有限，敬請留意。
 codename_reassign_success
 你的暱稱已變更為 {0}
 speed_modal_too_fast
@@ -1595,22 +1595,92 @@ pokestop_item_passcode_inventory_full
 error_weak_network
 網路狀況不穩定，請稍後再試一次
 badge_apac_partner_july_2018_1
-July 26, 2018
+日本 2018年7月28日
 badge_apac_partner_july_2018_2
-July 27, 2018
+日本 2018年7月26日
 badge_apac_partner_july_2018_3
-July 28, 2018
+日本 2018年7月27日
 badge_apac_partner_july_2018_4
-July 29, 2018
+日本 2018年7月29日
 badge_apac_partner_july_2018_5
-July 30, 2018
+韓國 2018年7月29日
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/28
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/26
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/27
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/29
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018//7/29
+banned_player_lockout_1|a
+Account Termination Notice\n\nYour account has been permanently terminated for violating the Terms of Service\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+suspended_player_lockout_1
+Account Suspension Notice\n\nYour account has been suspended for violating the Terms of Service.\n\nThis is the second Strike against your account. You will regain access to your account in approximately 30 days. Any further transgressions will result in permanent account termination.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+player_cheating_warning|a
+Warning Notice\n\nWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.\n\nThis is the first Strike against your account. It will last for approximately 7 days.\n\nWe strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+three_strike_policy_url
+https://support.pokemongo.nianticlabs.com/hc/zh-tw/articles/360001743487-%E4%B8%89%E6%8C%AF%E5%87%BA%E5%B1%80%E6%94%BF%E7%AD%96
+badge_yokosuka_29_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_mikasa
+Yokosuka, Aug 29, 2018-MIKASA
+badge_yokosuka_29_aug_2018_verny
+Yokosuka, Aug 29, 2018-VERNY
+badge_yokosuka_29_aug_2018_kurihama
+Yokosuka, Aug 29, 2018-KURIHAMA
+badge_yokosuka_30_aug_2018_mikasa
+Yokosuka, Aug 30, 2018-MIKASA
+badge_yokosuka_30_aug_2018_verny
+Yokosuka, Aug 30, 2018-VERNY
+badge_yokosuka_30_aug_2018_kurihama
+Yokosuka, Aug 30, 2018-KURIHAMA
+badge_yokosuka_31_aug_2018_mikasa
+Yokosuka, Aug 31, 2018-MIKASA
+badge_yokosuka_31_aug_2018_verny
+Yokosuka, Aug 31, 2018-VERNY
+badge_yokosuka_31_aug_2018_kurihama
+Yokosuka, Aug 31, 2018-KURIHAMA
+badge_yokosuka_1_sep_2018_mikasa
+Yokosuka, Sep 1, 2018-MIKASA
+badge_yokosuka_1_sep_2018_verny
+Yokosuka, Sep 1, 2018-VERNY
+badge_yokosuka_1_sep_2018_kurihama
+Yokosuka, Sep 1, 2018-KURIHAMA
+badge_yokosuka_2_sep_2018_mikasa
+Yokosuka, Sep 2, 2018-MIKASA
+badge_yokosuka_2_sep_2018_verny
+Yokosuka, Sep 2, 2018-VERNY
+badge_yokosuka_2_sep_2018_kurihama
+Yokosuka, Sep 2, 2018-KURIHAMA
+badge_pokedex_entries_gen4_title
+Sinnoh
