@@ -1,6 +1,6 @@
 # Pokemon GO Icons, images, text and sound files
 
-Current version: **0.131.4**
+Current version: **0.135.1**
 
 https://pokemongohub.net/
 
